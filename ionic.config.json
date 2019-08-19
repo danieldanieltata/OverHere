@@ -1,0 +1,7 @@
+{
+  "name": "overHere",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

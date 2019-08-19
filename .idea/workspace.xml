@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b1d5f0c-1e5b-47fc-8008-30843ca47db5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1PNfVtZEEin8qU8pnSPjpOXOJR0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="excluded.www.directory" value="true" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="ts.external.directory.path" value="C:\Users\Daniel\WebstormProjects\overHere\node_modules\typescript\lib" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run ionic device" type="PhoneGap" factoryName="PhoneGap/Cordova" editBeforeRun="true">
+      <option name="myExecutable" value="C:\Users\Daniel\AppData\Roaming\npm\ionic.cmd" />
+      <option name="myWorkDir" value="C:\Users\Daniel\WebstormProjects\overHere" />
+      <option name="myCommand" value="emulate" />
+      <option name="myPassParent" value="true" />
+      <option name="myPlatform" value="android" />
+      <option name="myExtraArgs" value="" />
+      <option name="hasTarget" value="false" />
+      <option name="target" value="" />
+      <method v="2">
+        <option name="PhonegapTask" enabled="true" />
+        <option name="NpmBeforeRunTask" enabled="true">
+          <package-json value="$PROJECT_DIR$/package.json" />
+          <command value="run" />
+          <scripts>
+            <script value="run-on-device" />
+          </scripts>
+          <node-interpreter value="project" />
+          <envs />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="PhoneGap" factoryName="PhoneGap/Cordova">
+      <option name="myExecutable" value="C:\Users\Daniel\AppData\Roaming\npm\ionic.cmd" />
+      <option name="myWorkDir" value="C:\Users\Daniel\WebstormProjects\overHere" />
+      <option name="myCommand" value="emulate" />
+      <option name="myPassParent" value="true" />
+      <option name="myPlatform" value="android" />
+      <option name="myExtraArgs" value="" />
+      <option name="hasTarget" value="false" />
+      <option name="target" value="" />
+      <method v="2">
+        <option name="PhonegapTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b1d5f0c-1e5b-47fc-8008-30843ca47db5" name="Default Changelist" comment="" />
+      <created>1565719501973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565719501973</updated>
+      <workItem from="1565719506228" duration="1119000" />
+      <workItem from="1565722575894" duration="238000" />
+      <workItem from="1565722827506" duration="32636000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
