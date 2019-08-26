@@ -1,0 +1,87 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-plugin-firebase": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-plugin-firebase-authentication": {
+      "FIREBASE_AUTH_VERSION": "18.0.+",
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-plugin-ionic-keyboard": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-plugin-ionic-webview": {
+      "ANDROID_SUPPORT_ANNOTATIONS_VERSION": "27.+",
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-sqlite-storage": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "phonegap-plugin-barcodescanner": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-android-play-services-gradle-release": {
+      "PLAY_SERVICES_VERSION": "+",
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-android-firebase-gradle-release": {
+      "FIREBASE-CORE": "17.0.0",
+      "FIREBASE-ADS": "18.0.0",
+      "FIREBASE-ANALYTICS": "17.0.0",
+      "FIREBASE-APPINDEXING": "19.0.0",
+      "FIREBASE-AUTH": "18.0.0",
+      "FIREBASE-FIRESTORE": "20.0.0",
+      "FIREBASE-FUNCTIONS": "18.0.0",
+      "FIREBASE-MESSAGING": "19.0.0",
+      "FIREBASE-STORAGE": "18.0.0",
+      "FIREBASE-CRASH": "16.2.1",
+      "CRASHLYTICS": "2.10.1",
+      "FIREBASE-DYNAMIC-LINKS": "18.0.0",
+      "FIREBASE-INVITES": "17.0.0",
+      "FIREBASE-INAPPMESSAGING": "18.0.1",
+      "FIREBASE-INAPPMESSAGING-DISPLAY": "18.0.1",
+      "FIREBASE-ML-VISION": "21.0.0",
+      "FIREBASE-ML-VISION-IMAGE-LABEL-MODEL": "18.0.0",
+      "FIREBASE-ML-VISION-FACE-MODEL": "18.0.0",
+      "FIREBASE-ML-VISION-OBJECT-DETECTION-MODEL": "17.0.0",
+      "FIREBASE-ML-NATURAL-LANGUAGE": "20.0.0",
+      "FIREBASE-ML-NATURAL-LANGUAGE-LANGUAGE-ID-MODEL": "20.0.0",
+      "FIREBASE-ML-NATURAL-LANGUAGE-TRANSLATE-MODEL": "20.0.0",
+      "FIREBASE-ML-NATURAL-LANGUAGE-SMART-REPLY-MODEL": "20.0.0",
+      "FIREBASE-ML-MODEL-INTERPRETER": "20.0.0",
+      "FIREBASE-ML-VISION-AUTOML": "17.0.0",
+      "FIREBASE-PERF": "18.0.0",
+      "FIREBASE-DATABASE": "18.0.0",
+      "FIREBASE-CONFIG": "18.0.0",
+      "PACKAGE_NAME": "io.ionic.starter"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-support-android-plugin": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-support-google-services": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    }
+  }
+}

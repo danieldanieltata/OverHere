@@ -1,0 +1,41 @@
+{
+  "_from": "cordova-android-play-services-gradle-release@^2.0.0",
+  "_id": "cordova-android-play-services-gradle-release@2.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-Vvg3fdrgbNoBEBdylRW5+/cqgcpLHUTBTWyKm08uxIj8dSM/xXcaAE2TSMIhCp8WclZum6Joq0hIelxzCd3nTA==",
+  "_location": "/cordova-android-play-services-gradle-release",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "cordova-android-play-services-gradle-release@^2.0.0",
+    "name": "cordova-android-play-services-gradle-release",
+    "escapedName": "cordova-android-play-services-gradle-release",
+    "rawSpec": "^2.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^2.0.0"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-android-play-services-gradle-release/-/cordova-android-play-services-gradle-release-2.1.0.tgz",
+  "_shasum": "93df407d3c06aef66555e06f23a7662a930bd972",
+  "_spec": "cordova-android-play-services-gradle-release@^2.0.0",
+  "_where": "C:\\self-dev\\OverHere",
+  "author": {
+    "name": "Dave Alden"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "q": "^1.4.1",
+    "semver": "5.1.0",
+    "xml2js": "~0.4.19"
+  },
+  "deprecated": false,
+  "description": "Cordova/Phonegap plugin to align various versions of the Play Services library specified by other plugins to a specific version",
+  "devDependencies": {},
+  "license": "MIT",
+  "name": "cordova-android-play-services-gradle-release",
+  "version": "2.1.0"
+}
