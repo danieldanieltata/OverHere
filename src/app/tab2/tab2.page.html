@@ -1,9 +1,24 @@
-<ion-header>
-  <ion-toolbar>
-    <ion-title>
-      Tab Two
-    </ion-title>
-  </ion-toolbar>
-</ion-header>
+<!--<ion-header>-->
+<!--  <ion-toolbar>-->
+<!--    <ion-title>-->
+<!--      Tab Two-->
+<!--    </ion-title>-->
+<!--  </ion-toolbar>-->
+<!--</ion-header>-->
 
-<ion-content></ion-content>
+<ion-content>
+
+  <ion-list>
+    <ion-item *ngFor="let checkIn of checkInsList">
+      <ion-avatar slot="start">
+        <img src="/assets/soldier.png">
+      </ion-avatar>
+      <ion-label [id]="checkIn.id">
+          <h2>{{checkIn.check_in_name}}</h2>
+          <h3>{{checkIn.barcode_value}}</h3>
+          <p>{{checkIn.date}}</p>
+      </ion-label>
+    </ion-item>
+  </ion-list>
+
+</ion-content>

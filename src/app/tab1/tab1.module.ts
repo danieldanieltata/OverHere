@@ -5,6 +5,8 @@ import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { Tab1Page } from './tab1.page';
 
+import { Storage } from '@ionic/storage';
+
 @NgModule({
   imports: [
     IonicModule,
